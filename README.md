@@ -79,7 +79,7 @@ If internal data contradicts the migration thesis, the thesis changes. I've stat
 
 ## About
 
-I'm Harshitha — MSc International Marketing & Business Development at SKEMA Paris, previously B2B implementation at Keka HR, currently building [ohmyATS](https://github.com/[your-username]/[ohmyats-repo]).
+I'm Harshitha, MSc International Marketing & Business Development at SKEMA Paris, previously B2B implementation at Keka HR, currently building [ohmyATS](https://github.com/[your-username]/[ohmyats-repo]).
 
 I write GTM analyses of B2B SaaS companies whose products I've worked adjacent to. Feedback and disagreement welcome — open an issue.
 
