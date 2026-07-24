@@ -1,5 +1,4 @@
 # The First Payslip - PayFit
-# The First Payslip
 
 **Why PayFit's biggest growth lever is the 45 days *after* the contract is signed.**
 
