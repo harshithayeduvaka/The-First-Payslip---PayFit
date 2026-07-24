@@ -69,7 +69,7 @@ The repo contains the positioning case, a five-stage activation map with the chu
 
 This is built entirely from outside. Five things would confirm or kill the thesis, and I don't have any of them:
 
-- Actual churn timing — is the spike inside 90 days, or after month 12?
+- Actual churn timing : is the spike inside 90 days, or after month 12?
 - Real onboarding completion rates against the published 2–6 week window
 - CAC and payback by segment rather than blended
 - Win/loss reasons on deals lost to Personio and Factorial
