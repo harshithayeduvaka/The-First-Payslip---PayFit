@@ -48,7 +48,7 @@ The repo contains the positioning case, a five-stage activation map with the chu
 | | |
 |---|---|
 | **Sample** | `[N]` verified reviews across PayFit, Personio, Factorial |
-| **Sources** | G2, Capterra — `[date range]` |
+| **Sources** | G2, Capterra - `[date range]` |
 | **Filter** | Reviews mentioning implementation, onboarding, setup or migration |
 | **Coding** | Six-category taxonomy, defined before coding began — see [CODEBOOK.md](method/CODEBOOK.md) |
 | **Supporting** | Public pricing, product documentation, funding disclosures, 2026 European SMB HR market coverage |
@@ -59,7 +59,7 @@ The repo contains the positioning case, a five-stage activation map with the chu
 
 ```
 ├── deck/           The full analysis as PDF
-├── data/           Coded review dataset (CSV) — categories and paraphrases only
+├── data/           Coded review dataset (CSV) - categories and paraphrases only
 ├── method/         Codebook, category definitions, stated assumptions
 ├── model/          Migration-complexity scoring model (XLSX)
 └── memo/           Two-page written summary
@@ -73,7 +73,7 @@ This is built entirely from outside. Five things would confirm or kill the thesi
 - Real onboarding completion rates against the published 2–6 week window
 - CAC and payback by segment rather than blended
 - Win/loss reasons on deals lost to Personio and Factorial
-- Support ticket taxonomy for days 1–45
+- Support ticket taxonomy for days 1-45
 
 If internal data contradicts the migration thesis, the thesis changes. I've stated it precisely enough to be wrong.
 
